@@ -13,7 +13,7 @@ CheerBanner：不止是图片，这是一款支持任意控件轮播的Banner控
 
 #### ⊙开源不易，希望给个 star 或者 fork 奖励
 #### ⊙拥抱开源：https://github.com/nanchen2251/
-#### ⊙交流群（拒绝无脑问）：118116509 <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=8764b119b3aeb121863fd0177f134db3948d17a7f9b551c3e3c0f903b561d3a1"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="Android 神探侧漏交流群" title="Android 神探侧漏交流群"></a>
+#### ⊙交流群（拒绝无脑问）：118116509 <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=8764b119b3aeb121863fd0177f134db3948d17a7f9b551c3e3c0f903b561d3a1"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="Android 神探侧漏交流群" title="Android 神探侧漏交流群"></a>
 
 ## 特点
   1、支持自动轮播<br>
